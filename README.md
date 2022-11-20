@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lafriks/lafriks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### BIO
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at [ZZ Dats](https://www.zzdats.lv)
+- ❤️ Open Source
+  - [Gitea](https://gitea.io)
+  - [Woodpecker CI](https://woodpecker-ci.org)
+  - [Azugo Go framework](https://azugo.io)
+- 🌱 Technologies:
+  - Go
+  - VueJS
+  - PostgreSQL
+- 📫 Reach me at <a rel="me" href="https://lafriks.id.lv/@me">Mastodon</a> or <a rel="me" href="https://twitter.com/lafriks">Twitter</a>
