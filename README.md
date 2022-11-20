@@ -2,7 +2,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [ZZ Dats](https://www.zzdats.lv)
+- 🏢 I'm currently working at [ZZ Dats](https://www.zzdats.lv) 🇱🇻
 - ❤️ Open Source
   - [Gitea](https://gitea.io)
   - [Woodpecker CI](https://woodpecker-ci.org)
