@@ -11,4 +11,4 @@
   - Go
   - VueJS
   - PostgreSQL
-- 📫 Reach me at <a rel="me" href="https://lafriks.id.lv/@me">Mastodon</a> or [Twitter](https://twitter.com/lafriks")
+- 📫 Reach me at <a rel="me" href="https://lafriks.id.lv/@me">Mastodon</a> or [Twitter](https://twitter.com/lafriks)
